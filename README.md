@@ -35,6 +35,8 @@ Fragen oder Anregungen zur Excel-Datei, neue Beispiele für Superspreading-Ereig
 
 <b><i>Es liegt an uns, ob wir uns die Mühe machen, SARS-CoV-2 die Stirn zu bieten!</i></b>
 
+[LogicLink, Marcus Müller](https://www.logiclink.de), Oktober 2020
+
 <a name="f1">1.</a> Mehr zu Superspreading unter https://de.wikipedia.org/wiki/Superspreading <br/>
 <a name="f2">2.</a> AHA Regeln siehe https://www.infektionsschutz.de/coronavirus/alltag-in-zeiten-von-corona.html  <br/>
 <a name="f3">3.</a> https://www.zeit.de/2020/33/corona-zweite-welle-eindaemmung-massnahmen-christian-drosten/komplettansicht  <br/>
